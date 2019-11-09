@@ -1,0 +1,1 @@
+The purpose of this file is to practice how to use git for web development
